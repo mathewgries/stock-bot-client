@@ -1,0 +1,10 @@
+.data-fields {
+    display: flex;
+    flex-flow: row wrap;
+    
+    /* flex-wrap: wrap; */
+}
+
+.data-fields div {
+    margin-right: 10px;
+}
